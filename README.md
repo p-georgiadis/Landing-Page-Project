@@ -53,7 +53,7 @@ This project leverages the following external resources:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/dynamic-landing-page.git
+   git clone https://github.com/p-georgiadis/Landing-Page-Project.git
    ```
 2. Navigate to the project directory:
    ```
