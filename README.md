@@ -1,5 +1,5 @@
 # Advanced Dynamic Landing Page Project
-
+[Check out the live site here](https://p-georgiadis.github.io/Landing-Page-Project/)
 ## Table of Contents
 - [Project Context](#project-context)
 - [Description](#description)
