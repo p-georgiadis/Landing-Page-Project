@@ -97,4 +97,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ---
 
-Developed with passion and precision by [Your Name]
+Developed with passion and precision by Panagiotis Georgiadis
